@@ -1,0 +1,5 @@
+#IOS
+||ocsp.apple.com^
+||mesu.apple.com^
+||gdmf.apple.com^
+||world-gen.g.aaplimg.com^

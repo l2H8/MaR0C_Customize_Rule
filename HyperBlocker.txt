@@ -1,0 +1,8 @@
+@@||www.ikunkun.icu^
+######################################
+||ip6.arpa^
+||r.10086.cn^
+||in-addr.arpa^
+||ipv4only.arpa^
+||api.miwifi.com^
+||api.cleanmasters.store^
