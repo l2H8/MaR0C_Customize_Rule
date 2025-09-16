@@ -2,6 +2,7 @@
 ######################################
 ||ip6.arpa^
 ||r.10086.cn^
+||m.baidu.com^
 ||in-addr.arpa^
 ||ipv4only.arpa^
 ||api.miwifi.com^
