@@ -5,4 +5,5 @@
 ||in-addr.arpa^
 ||ipv4only.arpa^
 ||api.miwifi.com^
+||api.miwifi.com^
 ||api.cleanmasters.store^
