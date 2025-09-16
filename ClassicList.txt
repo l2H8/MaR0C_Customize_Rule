@@ -7,5 +7,4 @@
 ||ipv4only.arpa^
 ||bytefcdnrd.com^
 ||api.miwifi.com^
-||api.miwifi.com^
 ||api.cleanmasters.store^
